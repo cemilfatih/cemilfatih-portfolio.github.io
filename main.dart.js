@@ -68015,7 +68015,7 @@ o=a.I(r).f
 r=a.I(r).f
 n=A.fJ(new A.bo(5,5))
 A.a7()
-o=A.d5(A.a([A.yG(B.cr,A.a([s,A.bj(h,h,h,h,new A.cD(B.M,A.anu(new A.mV(B.dE,B.fa,h,B.fu),B.lB,new A.mC("svg/me_color.jpg",h,h)),h,n,h,h,B.U),r.a.a*0.22,h,h,o.a.a*0.22)],p),B.dr)],p),B.a2,B.p,B.l)
+o=A.d5(A.a([A.yG(B.cr,A.a([s,A.bj(h,h,h,h,new A.cD(B.M,A.anu(new A.mV(B.dE,B.fa,h,B.fu),B.lB,new A.mC("svg/me_color.jpg",h,h)),h,n,h,h,B.U),r.a.a*0.6,h,h,o.a.a*0.6)],p),B.dr)],p),B.a2,B.p,B.l)
 A.a7()
 r=A.aL(u.N,A.bM(B.w,15,h,1.5,1),h,h)
 A.a7()
